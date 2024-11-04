@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 569.62 188.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #783719;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #fbfbd4;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-family: UNCAGE-SemiBold, 'UNCAGE SemiBold';
+        font-size: 47px;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #b75b08;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g>
+        <polygon class="cls-1" points="569.62 160.01 333.11 171.8 307.86 173.06 282.11 174.35 236.36 176.63 8.1 188.01 7.74 180.77 7.73 180.55 159.07 126.59 190.84 115.26 208.72 108.88 226.26 102.63 468.32 16.32 526.56 12.97 539.44 12.23 540.83 13.49 555.19 26.52 555.24 26.56 563.28 33.85 569.62 160.01"/>
+        <polygon class="cls-3" points="561.59 152.93 322.53 164.95 322.52 164.95 297.29 166.22 297.28 166.22 271.55 167.51 225.83 169.81 7.74 180.77 0 26.82 4.59 26.59 4.6 26.59 50.26 24.26 50.27 24.26 75.96 22.95 75.97 22.95 101.18 21.66 525.91 0 555.24 26.52 561.59 152.93"/>
+      </g>
+      <polygon class="cls-2" points="525.91 0 527.11 23.84 555.24 26.52 525.91 0"/>
+    </g>
+    <text class="cls-7" transform="translate(114.36 81.06)"><tspan x="0" y="0">П</tspan><tspan class="cls-4" x="30.03" y="0">е</tspan><tspan x="53.72" y="0">да</tspan><tspan class="cls-8" x="101.28" y="0">г</tspan><tspan x="118.44" y="0">о</tspan><tspan class="cls-6" x="144.24" y="0">г</tspan><tspan class="cls-9" x="162.01" y="0">и</tspan><tspan x="187.53" y="0">ческий </tspan><tspan x="79.67" y="56.4">проф</tspan><tspan class="cls-5" x="187.76" y="56.4">и</tspan><tspan x="213.99" y="56.4">ль</tspan></text>
+  </g>
+</svg>

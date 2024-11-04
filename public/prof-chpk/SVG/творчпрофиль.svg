@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570.2 190.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffa444;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff1d6;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #d9352b;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-family: UNCAGE-SemiBold, 'UNCAGE SemiBold';
+        font-size: 47px;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <g>
+      <g>
+        <polygon class="cls-3" points="570.2 159.82 333.74 172.64 308.5 174.01 282.75 175.42 237.01 177.9 8.81 190.28 8.41 183.04 8.4 182.82 159.51 128.2 191.23 116.73 209.08 110.27 226.59 103.94 468.27 16.57 526.49 12.97 539.37 12.17 540.77 13.42 555.18 26.39 555.23 26.43 563.31 33.69 570.2 159.82"/>
+        <polygon class="cls-1" points="562.14 152.77 323.13 165.84 323.12 165.84 297.9 167.22 297.89 167.22 272.16 168.62 226.45 171.12 8.41 183.04 0 29.12 4.59 28.87 4.6 28.87 50.25 26.34 50.26 26.34 75.94 24.92 75.95 24.92 101.16 23.52 525.79 0 555.23 26.39 562.14 152.77"/>
+      </g>
+      <polygon class="cls-2" points="525.79 0 527.09 23.84 555.23 26.39 525.79 0"/>
+    </g>
+    <text class="cls-7" transform="translate(160.53 82.11)"><tspan class="cls-5" x="0" y="0">Т</tspan><tspan x="20.21" y="0">во</tspan><tspan class="cls-4" x="69.51" y="0">р</tspan><tspan x="95.79" y="0">ческий </tspan><tspan x="33.79" y="56.4">проф</tspan><tspan class="cls-6" x="141.89" y="56.4">и</tspan><tspan x="168.12" y="56.4">ль</tspan></text>
+  </g>
+</svg>
