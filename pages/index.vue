@@ -13,8 +13,8 @@
     </p>
   </UContainer>
   <UContainer class="mt-12 flex flex-row justify-center align-center">
-    <ULink to="/test">
-      <img src="../assets/test-banner.png" />
+    <ULink to="/1">
+      <img src="../assets/test-banner.png" style="height: 100px;" />
     </ULink>
   </UContainer>
   <Footer/>

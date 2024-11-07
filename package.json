@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@nuxt/ui": "^3.0.0-alpha.7",
+    "@pinia/nuxt": "^0.7.0",
     "nuxt": "^3.13.2",
+    "pinia": "^2.2.6",
     "vue": "latest",
     "vue-router": "latest"
   },
@@ -19,6 +21,7 @@
     "@iconify-json/brandico": "^1.2.1",
     "@iconify-json/fa-brands": "^1.2.0",
     "@iconify-json/fa6-brands": "^1.2.1",
-    "@iconify-json/heroicons": "^1.2.1"
+    "@iconify-json/heroicons": "^1.2.1",
+    "@iconify-json/lucide": "^1.2.12"
   }
 }

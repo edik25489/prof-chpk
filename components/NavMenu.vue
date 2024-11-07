@@ -7,13 +7,13 @@ const items = [
 
   }],
   [{
-    label: 'Тест',
+    label: 'Пройти тест',
     icon: 'i-heroicons-circle-stack',
-    to:'/test'
+    to:'/1'
 
   },
   {
-    label: 'Профили колледжа',
+    label: 'Профили',
     icon: 'i-heroicons-cube-transparent',
     to:'/profile'
   }]
