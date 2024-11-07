@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const items = [
   [{
-    label: '',
+    label: 'Главная',
     icon: 'i-heroicons-book-open',
     to:'/'
 
